@@ -3,31 +3,32 @@
 - Spanish latin american dvorak layout.
 - Support dead keys.
 - Created using Ukelele.
-- Layout file: latin_american_dvorak.bundle
 - Layout zip file: latin_american_dvorak.bundle.zip
+- Layout bundle: latin_american_dvorak.bundle
 - Tested in M1 Pro with macOS Monterey.
 
 ### How to install
 
-Install using [Ukelele](https://software.sil.org/ukelele/)
 FYI: Ukelele is a Unicode Keyboard Layout Editor for macOS.
-1. Install Ukelele.app
-2. Open Ukelele > file > install > show organizer
-3. set folder with the layout file > move the layout to all user / current user
-4. Reinstall or logout
+1. unzip latin_american_dvorak.bundle.zip
+2. Install Ukelele. Install using [Ukelele](https://software.sil.org/ukelele/)
+3. Open Ukelele > file > install > show organizer
+4. click in "set folder" button > select layout.bundle parent folder
+5. move the layout.bundle from "not installed" column to "installed for all users" column
+6. Reinstall or logout
 
 Install without Ukelele
-1. copy the layout file in: root > Library > Keyboard Layouts 
-2. Reinstall or logout
+1. Unzip latin_american_dvorak.bundle.zip
+2. Copy the layout.bundle in: root > Library > Keyboard Layouts folder
+3. Reinstall or logout
 
 ### How to use
 Setting layout in macOS
-1. go to system preference > keyboard > input source
+1. Go to system preference > keyboard > input source
 2. Click in (+) icon > search "Latin American Dvorak" layout > add
-3. enjoy
+3. Enjoy
 
 ### Demo screenshots
-
 FYI: screenshots was taken using macOS "show keyboard viewer" option.
 
 #### Normal layout
