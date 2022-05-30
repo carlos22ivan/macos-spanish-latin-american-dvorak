@@ -9,18 +9,18 @@
 
 ### How to install
 
-FYI: Ukelele is a Unicode Keyboard Layout Editor for macOS.
-1. unzip latin_american_dvorak.bundle.zip
-2. Install Ukelele. Install using [Ukelele](https://software.sil.org/ukelele/)
-3. Open Ukelele > file > install > show organizer
-4. click in "set folder" button > select layout.bundle parent folder
-5. move the layout.bundle from "not installed" column to "installed for all users" column
-6. Reinstall or logout
+* Install with Ukelele. Ukelele is a Unicode Keyboard Layout Editor for macOS.
+  1. unzip latin_american_dvorak.bundle.zip
+  2. Install [Ukelele](https://software.sil.org/ukelele/)
+  3. Open Ukelele > file > install > show organizer
+  4. click in "set folder" button > select layout.bundle parent folder
+  5. move the layout.bundle from "not installed" column to "installed for all users" column
+  6. Reinstall or logout
 
-Install without Ukelele
-1. Unzip latin_american_dvorak.bundle.zip
-2. Copy the layout.bundle in: root > Library > Keyboard Layouts folder
-3. Reinstall or logout
+* Install without Ukelele
+  1. Unzip latin_american_dvorak.bundle.zip
+  2. Copy the layout.bundle in: root > Library > Keyboard Layouts folder
+  3. Reinstall or logout
 
 ### How to use
 Setting layout in macOS
