@@ -1,7 +1,11 @@
 # spanish latin american dvorak
 
+macOS by default don't have a dvorak keyboard layout for the latin american spanish users, 
+then I create with Ukelele a spanish latin american dvorak layout, with support for latin dead keys.
+I hope this can help the community
+
 - Spanish latin american dvorak layout.
-- Support dead keys.
+- Support latin dead keys.
 - Created using Ukelele.
 - Layout zip file: latin_american_dvorak.bundle.zip
 - Layout bundle: latin_american_dvorak.bundle
